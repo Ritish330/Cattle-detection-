@@ -1,0 +1,9 @@
+pillow
+requests
+pandas
+opencv-python
+numpy
+torch
+tkinter
+random
+mathplotlib
